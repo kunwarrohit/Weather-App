@@ -1,0 +1,28 @@
+/* src/App.css */
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 8px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 8px;
+}
+
+.weather-info, .user-features {
+  margin: 20px auto;
+  width: 80%;
+  text-align: center;
+}
+
+h2, h3 {
+  color: #333;
+}
